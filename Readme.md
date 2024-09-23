@@ -10,7 +10,7 @@ Este projeto é um simples script em Python que converte um arquivo CSV contendo
 
 ## Exemplo de Estrutura de Arquivo CSV
 
-O arquivo CSV deve ter a seguinte estrutura com cabeçalhos:
+O arquivo CSV, deve ter no nome de contatos e ter a seguinte estrutura com cabeçalhos:
 
 ```csv
 Nome,Celular

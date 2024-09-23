@@ -12,5 +12,5 @@ def csv_para_vcard(arquivo_csv, arquivo_vcard):
                 vcf.write(f"TEL;TYPE=CELL:{linha['Celular']}\n")
                 vcf.write("END:VCARD\n\n")
 
-# Exemplo de uso
+
 csv_para_vcard('contatos.csv', 'contatos.vcf')
